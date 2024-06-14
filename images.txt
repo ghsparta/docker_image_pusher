@@ -10,3 +10,4 @@ anjia0532/google-samples.microservices-demo.checkoutservice:v0.3.6
 anjia0532/google-samples.microservices-demo.cartservice:v0.3.6
 anjia0532/google-samples.microservices-demo.adservice:v0.3.6
 anjia0532/google-samples.microservices-demo.frontend:v0.3.6
+nginx:perl
