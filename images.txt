@@ -1,13 +1,4 @@
-alpine:3.19.1
-anjia0532/google-samples.microservices-demo.emailservice:v0.3.6
-anjia0532/google-samples.microservices-demo.currencyservice:v0.3.6
-anjia0532/google-samples.microservices-demo.loadgenerator:v0.3.6
-anjia0532/google-samples.microservices-demo.paymentservice:v0.3.6
-anjia0532/google-samples.microservices-demo.productcatalogservice:v0.3.6
-anjia0532/google-samples.microservices-demo.recommendationservice:v0.3.6
-anjia0532/google-samples.microservices-demo.shippingservice:v0.3.6
-anjia0532/google-samples.microservices-demo.checkoutservice:v0.3.6
-anjia0532/google-samples.microservices-demo.cartservice:v0.3.6
-anjia0532/google-samples.microservices-demo.adservice:v0.3.6
-anjia0532/google-samples.microservices-demo.frontend:v0.3.6
-nginx:perl
+pingcap/tidb-operator:v1.6.0
+pingcap/tidb-backup-manager:v1.6.0
+bitnami/kubectl:latest
+pingcap/advanced-statefulset:v0.3.3
