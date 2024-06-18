@@ -1,4 +1,12 @@
-pingcap/tidb-operator:v1.6.0
-pingcap/tidb-backup-manager:v1.6.0
-bitnami/kubectl:latest
-pingcap/advanced-statefulset:v0.3.3
+pingcap/pd:v8.1.0
+pingcap/tikv:v8.1.0
+pingcap/tidb:v8.1.0
+pingcap/tidb-binlog:v8.1.0
+pingcap/ticdc:v8.1.0
+pingcap/tiflash:v8.1.0
+pingcap/tiproxy:latest
+pingcap/tidb-monitor-reloader:v1.0.1
+pingcap/tidb-monitor-initializer:v8.1.0
+grafana/grafana:7.5.11
+prom/prometheus:v2.18.1
+busybox:1.26.2
